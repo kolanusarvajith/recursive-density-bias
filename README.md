@@ -8,7 +8,7 @@ whether we can stop that drift without throwing away any generated images.
 
 This repository has three files:
 
-- `recursive_density_bias_kaggle.ipynb`: the notebook that runs the whole project and produced every number
+- `main.ipynb`: the notebook that runs the whole project and produced every number
   in the report.
 - `report.pdf`: the full report (method, experiments, results, the interface and what didn't work).
 - `README.md`: this file.
